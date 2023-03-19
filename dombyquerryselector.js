@@ -20,7 +20,6 @@
 
 
 
-
 var title=document.querySelectorAll('.title');
 console.log(title);
 title[0].textContent='hello';
